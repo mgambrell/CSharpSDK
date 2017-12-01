@@ -355,7 +355,8 @@ namespace PlayFab
         NoEntityFileOperationPending = 1351,
         EntityProfileVersionMismatch = 1352,
         TemplateVersionTooOld = 1353,
-        MembershipDefinitionInUse = 1354
+        MembershipDefinitionInUse = 1354,
+        PaymentPageNotConfigured = 1355
     }
     
     public class PlayFabError
